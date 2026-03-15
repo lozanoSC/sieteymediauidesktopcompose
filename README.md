@@ -9,4 +9,6 @@ Si me planto comienza el turno de la banca y al finalizar su turno se muestra el
 
  ![ejemploui2](ejemploui2.png)
 
+ Dicho esto, cada uno generará la UI a su gusto, por supuesto
+
 Lo importante para nosotros es entender que la clase SieteYMedia es lógica del negocio y  la escribimos independiente de la E/S. No es importante hacer una UI complicada y chulisima
